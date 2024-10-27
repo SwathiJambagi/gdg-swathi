@@ -216,7 +216,7 @@ main {
   text-align: center;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 100px;
   /* max-width: 1200px; */
 }
